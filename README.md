@@ -1,7 +1,7 @@
 local RelzUILib = loadstring(game:HttpGet("https://storage.relzhub.com/ui/v1.lua"))()
 local RelzhubModule = loadstring(game:HttpGet("https://storage.relzhub.com/modules/main.lua"))()
 local Window = RelzUILib:Window({
-	Title = "Relz Hub",
+	Title = "Infinity Hub",
 })
 
 local Tabs = {
